@@ -1,0 +1,38 @@
+Name	:	Mrs Lucy Fernandes (64y/f)	date      	:	09-12-2013
+Ref.by	:	self	labcode	:	091210490/muw32
+Tests asked	:	liver function tests	barcode	:	32528727 / muw32
+Test name	method	value	units	reference range
+
+Bilirubin -direct	photometry	  0.18	mg/dl	0 - 0.20
+Bilirubin - total	photometry	  0.57	mg/dl	0.30 - 1.20
+Bilirubin (indirect)	calculated	  0.39	mg/dl	0 - 0.9
+Aspartate aminotransferase (sgot )	photometry	  27	u/l	m: 0 to 37 - f: 0 to 31
+Alanine transaminase (sgpt)	photometry	  142	u/l	m: 13 to 40 - f: 10 to 28
+Alkaline phosphatase	photometry	  90	u/l	m:53 to 128 - f:42 to 98
+Gamma glutamyl transferase (ggt)	photometry	  40	u/l	m: 0 to 55 - f :0 to 38
+Protein - total	photometry	  6.1	gm/dl	6.6 - 8.3
+Albumin - serum	photometry	  3.9	gm/dl	 3.5 - 5.2
+Serum globulin	photometry	  2.2	gm/dl	2.30-3.50
+Serum albumin/globulin ratio	calculated	  1.77	ratio	0.9 - 2.0
+Please correlate with clinical conditions.
+
+Technology:
+
+
+Bild - diazo method of pearlman & lee, endpoint. 
+Bilt - diazo method of pearlman & lee, endpoint. 
+Bili - derived from serum total and direct bilirubin values 
+Sgot - ifcc* without pyridoxal phosphate activation 
+Sgpt - ifcc* without pyridoxal phosphate activation 
+Alkp - alp ifcc* liquid (colorimetric assay) 
+Ggt - ifcc standardised szasz method 
+Prot - biuret method 
+Salb - albumin bcg¹method (colorimetric assay endpoint) 
+Segb - derived from serum albumin and protein values 
+A/gr - derived from serum albumin and protein values
+ 
+Electronic report (provisional) signature not needed
+Sample collected on (sct)	 :	09 dec 2013 11:00	report released on (rrt)	:	09 dec 2013 22:41
+Sample received on (srt)	:	09 dec 2013 19:22	sample type	:	serum
+Collected at (scp)	:	pournima s tawade
+

@@ -1,0 +1,19 @@
+package com.mastek.gate
+ 
+import com.mastek.gate.ProcessingStepFive;
+ 
+rule "Check Risk"
+    when
+    	
+        m : ProcessingStepFive( (unit != null ) && 
+        						(startRange !=null ) &&
+        						(endRange != null ) &&
+        						((Float.parseFloat(unit) < Float.parseFloat(startRange) || 
+        						 Float.parseFloat(unit) > Float.parseFloat(endRange)) && 
+        						 (risk != "Red")) )
+    then
+        m.setRisk("Red");
+        update( m );
+       System.out.println("Risk rule executed !");
+end
+

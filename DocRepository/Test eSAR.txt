@@ -1,0 +1,555 @@
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 1 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Address:
+91 Kingsway
+Riddings
+Kirkheaton
+West Yorkshire
+LS23 7PO
+Problems
+Active
+13 Mar 2005 - Mrs Jean Kemp
+Cervical smear non-responder (6857.)
+14 Dec 2004 - Mrs Jean Kemp
+Cervical smear non-responder (6857.)
+07 Aug 2003 - Mrs Ann Stanley
+Notes summary on computer (9344.)
+Significant Past
+22 Feb 2004 - Mrs Eileen Bradshaw
+Mammography not attended
+Chest clear
+(5375.)
+29 Jul 2003 - Mrs Eileen Bradshaw
+Mammography not attended
+Generalised non-specific abdominal tenderness
+(5375.)
+04 Dec 2002 - Mrs Ann Stanley
+[D]Vertigo NOS
+Erythroped A Tablets 500 mg 1 qds 28 tablets
+(R0043)
+30 Jun 2002 - Mrs Ann Stanley
+Thrush
+SOB in the morning, somewhat lightheaded
+(AB2..)
+19 Aug 2001 - Mrs Ann Stanley
+Breast screen non-attender
+Erythroped A Tablets 500 mg 1 qds 28 tablets
+(9OHC.)
+18 Apr 2000 - Mrs Ann Stanley
+Seen in orthopaedic clinic
+Chest clear
+(9N1p.)
+31 Mar 2000 - Mrs Ann Stanley
+Seen in hospital casualty
+Going to pain clinic
+(9N19.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 2 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+25 Mar 2000 - Mrs Ann Stanley
+Fracture of lateral malleolus
+Refer to specialist
+(S349.)
+23 Jun 1999 - Mrs Ann Stanley
+Candidal vulvovaginitis
+Diarrhoea disappeared
+(AB21.)
+25 Jan 1998 - Mrs Ann Stanley
+[D]Vertigo NOS
+Still coughing up some thick globules phlegm - leading again to choking
+(R0043)
+07 Aug 1996 - Mrs Ann Stanley
+Fostering medical examination
+Still feels like thick mucous from chest - causing choking
+(6982.)
+23 Jul 1996 - Mrs Ann Stanley
+Letter encounter
+Pneumovax 11 Injection 25 mcg 0.5 ml 1 vial(s)
+(9N33.)
+18 Apr 1996 - Mrs Ann Stanley
+DNA hospital appointment
+BT taken
+(9N4H.)
+18 Dec 1995 - Mrs Ann Stanley
+Cervical smear: negative
+Generalised non-specific abdominal tenderness
+(4K22.)
+18 Dec 1995 - Mrs Ann Stanley
+ECG - general
+Chest OK. Pretty good at the moment
+(321..)
+05 Dec 1995 - Mrs Ann Stanley
+Headache
+Diarrhoea on and off for 3 weeks with abdo cramps.No blood and no recent travel
+(1B1G.)
+13 Aug 1995 - Mrs Ann Stanley
+DNA hospital appointment
+GTT taken
+(9N4H.)
+17 Apr 1995 - Mrs Ann Stanley
+Rheumatoid factor
+Pneumovax 11 Injection 25 mcg 0.5 ml 1 vial(s)
+(43F..)
+11 Apr 1995 - Mrs Ann Stanley
+Menopausal symptoms NOS (K5A2z)
+11 Apr 1995 - Mrs Ann Stanley
+Rheumatoid arthritis
+Continue to improve
+(N040.)
+29 Mar 1995 - Mrs Ann Stanley
+History / symptoms
+Ciprofloxacin Tablets 250 mg 1 bd 10 tablet(s)
+(1....)
+03 Mar 1994 - Mrs Ann Stanley
+Unspecified polyarthropathy or polyarthritis
+Awaiting MRI scan to look at anatomy
+(N065.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 3 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+01 Mar 1994 - Mrs Ann Stanley
+Letter from consultant
+Prednisolone E/C Tablets 5 mg 6 od 42 tablet(s)
+(9N36.)
+27 Feb 1994 - Mrs Ann Stanley
+Mole of skin
+Slime and diarrhoea continue
+(B76..)
+01 Mar 1993 - Mrs Ann Stanley
+Referred to rheumatologist
+Pale - prob mildly anaemic. Pale and unwell
+(8H4B.)
+31 Jan 1993 - Mrs Ann Stanley
+O/E - a lump
+Awaiting MRI scan to look at anatomy
+(2I11.)
+31 Jan 1993 - Mrs Ann Stanley
+C/O: a pain
+Indigestion still very bothersome
+(1D13.)
+30 Jan 1990 - Mrs Ann Stanley
+X-ray report received
+Chest OK. Pretty good at the moment
+(9ND4.)
+16 Jan 1990 - Mrs Ann Stanley
+Cervical spondylosis (N110.)
+28 Apr 1988 - Mrs Ann Stanley
+[D]Musculoskeletal chest pain
+Please repeat ENT exam in view of blood
+(R065A)
+30 Jul 1985 - Mrs Ann Stanley
+Termination of pregnancy NEC (7E086)
+31 Dec 1981 - Mrs Ann Stanley
+Other evacuation of contents of uterus
+Going to pain clinic
+(7E08.)
+04 Jul 1976 - Mrs Ann Stanley
+Normal delivery
+To come in 1 week time
+(7F19.)
+Minor Past
+02 Jun 2003 - Mrs Jean Mitchell
+Candidiasis of vagina (AB211)
+23 Jun 1999 - Mrs Ann Stanley
+[D]Rash and other nonspecific skin eruption NOS
+Slime and diarrhoea continue
+(R021z)
+03 Jan 1999 - Mrs Ann Stanley
+Watery eyes (Bilateral)
+Try 10 days oral steroids and see friday week
+(1B87.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 4 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+09 Dec 1998 - Mrs Ann Stanley
+Upper respiratory tract infection NOS (H05z.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 5 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Consultations
+19 Mar 2014 - Mr Lung Health
+Awaiting clinical code migration to EMIS Web
+Additional: Attachment
+COPD Assessment - 19/03/2014Assessment Type: Initial
+AssessmentCarried out by: TestUser
+(EMISATTACHMENT)
+Additional: Local Code: 22K.., 25.78 (22K..)
+Additional: Ex-moderate smoker (10-19/day) (1379.)
+Additional: Oxygen saturation at periphery, 87 (44YA0)
+Additional: Forced expired volume in 1 second, 1 (339O.)
+Additional: Chronic obstructive pulmonary disease annual review (66YM.)
+Additional: MRC Breathlessness Scale: grade 2 (173I.)
+Additional: Peak flow rate after bronchodilation, 1 (339B.)
+Additional: Attachment
+COPD Assessment - 19/03/2014Assessment Type: Initial
+AssessmentCarried out by: TestUser
+(EMISATTACHMENT)
+Additional: Local Code: 22K.., 25.78 (22K..)
+Additional: Ex-moderate smoker (10-19/day) (1379.)
+Additional: Oxygen saturation at periphery, 87 (44YA0)
+Additional: Forced expired volume in 1 second, 1 (339O.)
+Additional: Chronic obstructive pulmonary disease annual review (66YM.)
+Additional: MRC Breathlessness Scale: grade 2 (173I.)
+Additional: Peak flow rate after bronchodilation, 1 (339B.)
+02 Jun 2003 - Dr Neil Burgess
+EMIS PCS Test Practice 1 GP Surgery
+Result: (Non Coded Event - Glucose + Time ): Just out of normal range - Ok
+Erythrocyte sedimentation rate, No action
+Plasma glucose level, 5 mmol/L (44g..)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 6 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+02 Jun 2003 - Mrs Jean Mitchell
+GP Surgery
+History: Para 6 (1527.)
+History: No known allergies (1151.)
+History: PMH - past medical history (14...)
+History: H/O: vertigo
+Combivent shaky and giddy
+(1491.)
+Examination: New patient health check (68R..)
+Examination: O/E - height, 162.5 cm (229..)
+Examination: O/E - weight, 96 Kg (22A..)
+Examination: Body mass index, 36.36 (22K..)
+Examination: Waist circumference, 104 cm (22N0.)
+Family History: FH: Father
+Reversibility with Salamol EB 200mcgs
+(12L..)
+Family History: FH: Cardiovascular disease (12C..)
+Family History: FH: * - breast (1243.)
+Social: Teetotaller (1361.)
+Social: Unemployed (13J7.)
+Social: Avoids even trivial exercise (1382.)
+Social: Not on a special diet (13V2.)
+Social: Cigarette smoker, 8 Cigarettes/day (137P.)
+Result: Urine protein test not done (4671.)
+Result: Urine glucose test not done (4661.)
+Medication: Betahistine Dihydrochloride Tablets 16 mg 84 tablet ONE TO BE TAKEN
+THREE TIMES A DAY
+Medication: Fluconazole Capsules 150 mg 1 capsule ONE DAILY
+Medication: Clotrimazole Cream 2 % 20 gram APPLY TWICE A DAY
+Additional: Health ed. - exercise (6798.)
+Additional: White British (9S10.)
+Additional: Patient's next of kin
+Scanty coase creps
+(9182.)
+Additional: New patient screen done (68R2.)
+Additional: Health ed. - smoking (6791.)
+Problem: Candidiasis of vagina (AB211)
+History: Frusemide Tablets 40 mg od 28 tablets
+Examination: Random blood sugar, 3.5 mmol/l (44T1.)
+Comment: Reversibility with Salamol EB 200mcgs
+Result: 01 Jan 2000 - Mrs Jean Mitchell
+Cervical smear: negative
+(4K22.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 7 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+02 Jun 2003 - Dr Neil Burgess
+EMIS PCS Test Practice 1 GP Surgery
+Result: Serum lipids: Normal - No Action (44O..)
+Serum cholesterol, 8.2 mmol/L (44P..)
+Result: Liver function test: Normal - No Action (44D6.)
+Plasma alkaline phosphatase level, 68 IU/L (Range: 30 - 150 IU/L) (44CU.)
+Plasma total bilirubin level, 6 umol/L (Range: 0 - 21 umol/L) (44E9.)
+Plasma globulin level, 27 g/L (Range: 20 - 40 g/L) (44MP.)
+Plasma albumin level, 39 g/L (Range: 35 - 50 g/L) (44MI.)
+Plasma total protein, 66 g/L (Range: 64 - 83 g/L) (44MA.)
+Result: (Non Coded Event - Lipids ): Normal - No Action
+Plasma triglyceride level, 2.8 mmol/L (Range: 0.8 - 2.8 mmol/L) (44e..)
+Plasma LDL cholesterol level, 5.5 mmol/L (44dB.)
+Plasma HDL cholesterol level, 1.4 mmol/L (Range: 1 - 1.8 mmol/L) (44dA.)
+Plasma cholesterol/HDL ratio, 6 (44lG.)
+Result: Liver function test: Normal - No Action (44D6.)
+Plasma gamma-glutamyl transferase level, 13 IU/L (Range: 9 - 36 IU/L) (44G7.)
+Plasma alanine aminotransferase level, 10 IU/L (Range: 10 - 35 IU/L) (44GA.)
+Result: Urea and electrolytes: Normal - No Action (44JB.)
+Serum creatinine, 71 umol/L (Range: 53 - 97 umol/L) (44J3.)
+Plasma bicarbonate level, 25 mmol/L (Range: 22 - 30 mmol/L) (44i0.)
+Plasma potassium level, 5 mmol/L (Range: 3.5 - 5.4 mmol/L) (44h8.)
+Plasma sodium level, 140 mmol/L (Range: 136 - 145 mmol/L) (44h6.)
+GFR calculated abbreviated MDRD, 87 ml/min/1.73m^2 (451E.)
+Plasma urea level, 4.8 mmol/L (Range: 2.5 - 6.7 mmol/L) (44JA.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 8 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Medications
+Repeat Medication (Current)
+02 Jun 2003 - Mrs Jean Mitchell
+Betahistine 16mg tablets
+84 tablet DOSE ONE TO BE TAKEN THREE TIMES A DAY
+Issues:
+02 Jun 2003 - Mrs Jean Mitchell
+Acute Medication
+02 Jun 2003 - Mrs Jean Mitchell
+Fluconazole 150mg capsules
+1 capsule DOSE ONE DAILY
+Issues:
+02 Jun 2003 - Mrs Jean Mitchell
+Acute Medication
+02 Jun 2003 - Mrs Jean Mitchell
+Clotrimazole 2% cream
+20 gram DOSE APPLY TWICE A DAY
+Issues:
+02 Jun 2003 - Mrs Jean Mitchell
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 9 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Referrals
+None listed in Medical Record.
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 10 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Test Results
+02 Jun 2003 - Dr Neil Burgess
+Result: (Non Coded Event - Glucose + Time ): Just out of normal range - Ok
+Erythrocyte sedimentation rate, No action
+Plasma glucose level, 5 mmol/L (44g..)
+02 Jun 2003 - Dr Neil Burgess
+Result: Serum lipids: Normal - No Action (44O..)
+Serum cholesterol, 8.2 mmol/L (44P..)
+02 Jun 2003 - Dr Neil Burgess
+Result: Liver function test: Normal - No Action (44D6.)
+Plasma alkaline phosphatase level, 68 IU/L (Range: 30 - 150 IU/L) (44CU.)
+Plasma total bilirubin level, 6 umol/L (Range: 0 - 21 umol/L) (44E9.)
+Plasma globulin level, 27 g/L (Range: 20 - 40 g/L) (44MP.)
+Plasma albumin level, 39 g/L (Range: 35 - 50 g/L) (44MI.)
+Plasma total protein, 66 g/L (Range: 64 - 83 g/L) (44MA.)
+02 Jun 2003 - Dr Neil Burgess
+Result: (Non Coded Event - Lipids ): Normal - No Action
+Plasma triglyceride level, 2.8 mmol/L (Range: 0.8 - 2.8 mmol/L) (44e..)
+Plasma LDL cholesterol level, 5.5 mmol/L (44dB.)
+Plasma HDL cholesterol level, 1.4 mmol/L (Range: 1 - 1.8 mmol/L) (44dA.)
+Plasma cholesterol/HDL ratio, 6 (44lG.)
+02 Jun 2003 - Dr Neil Burgess
+Result: Liver function test: Normal - No Action (44D6.)
+Plasma gamma-glutamyl transferase level, 13 IU/L (Range: 9 - 36 IU/L) (44G7.)
+Plasma alanine aminotransferase level, 10 IU/L (Range: 10 - 35 IU/L) (44GA.)
+02 Jun 2003 - Dr Neil Burgess
+Result: Urea and electrolytes: Normal - No Action (44JB.)
+Serum creatinine, 71 umol/L (Range: 53 - 97 umol/L) (44J3.)
+Plasma bicarbonate level, 25 mmol/L (Range: 22 - 30 mmol/L) (44i0.)
+Plasma potassium level, 5 mmol/L (Range: 3.5 - 5.4 mmol/L) (44h8.)
+Plasma sodium level, 140 mmol/L (Range: 136 - 145 mmol/L) (44h6.)
+GFR calculated abbreviated MDRD, 87 ml/min/1.73m^2 (451E.)
+Plasma urea level, 4.8 mmol/L (Range: 2.5 - 6.7 mmol/L) (44JA.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 11 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Journal
+Recall
+14 Apr 2010 - Dr Neil Burgess
+Influenza vaccination (65E..)
+Read Code
+13 Mar 2005 - Mrs Jean Kemp
+Cervical smear non-responder (6857.)
+Read Code
+14 Dec 2004 - Mrs Jean Kemp
+Cervical smear non-responder (6857.)
+Read Code
+22 Feb 2004 - Mrs Eileen Bradshaw
+Mammography not attended
+Chest clear
+(5375.)
+Recall
+30 Nov 2003 - Mrs Jean Mitchell
+Medication review (8B314)
+Read Code
+07 Aug 2003 - Mrs Ann Stanley
+Notes summary on computer (9344.)
+Read Code
+29 Jul 2003 - Mrs Eileen Bradshaw
+Mammography not attended
+Generalised non-specific abdominal tenderness
+(5375.)
+Read Code
+03 Jun 2003 - Mrs Jean Mitchell
+English - ethnic category 2001 census
+Continue to improve
+(9i20.)
+Read Code
+02 Jun 2003 - Mrs Jean Mitchell
+Systolic blood pressure, 150 mm Hg (2469.)
+Read Code
+02 Jun 2003 - Mrs Jean Mitchell
+Diastolic blood pressure, 80 mm Hg (246A.)
+Read Code
+04 Dec 2002 - Mrs Ann Stanley
+[D]Vertigo NOS
+Erythroped A Tablets 500 mg 1 qds 28 tablets
+(R0043)
+Read Code
+30 Jun 2002 - Mrs Ann Stanley
+Thrush
+SOB in the morning, somewhat lightheaded
+(AB2..)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 12 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Read Code
+19 Aug 2001 - Mrs Ann Stanley
+Breast screen non-attender
+Erythroped A Tablets 500 mg 1 qds 28 tablets
+(9OHC.)
+Read Code
+18 Apr 2000 - Mrs Ann Stanley
+Seen in orthopaedic clinic
+Chest clear
+(9N1p.)
+Read Code
+31 Mar 2000 - Mrs Ann Stanley
+Seen in hospital casualty
+Going to pain clinic
+(9N19.)
+Read Code
+25 Mar 2000 - Mrs Ann Stanley
+Fracture of lateral malleolus
+Refer to specialist
+(S349.)
+Read Code
+23 Jun 1999 - Mrs Ann Stanley
+Candidal vulvovaginitis
+Diarrhoea disappeared
+(AB21.)
+Read Code
+23 Jun 1999 - Mrs Ann Stanley
+[D]Rash and other nonspecific skin eruption NOS
+Slime and diarrhoea continue
+(R021z)
+Read Code
+03 Jan 1999 - Mrs Ann Stanley
+Watery eyes (Bilateral)
+Try 10 days oral steroids and see friday week
+(1B87.)
+Read Code
+09 Dec 1998 - Mrs Ann Stanley
+Upper respiratory tract infection NOS (H05z.)
+Read Code
+25 Jan 1998 - Mrs Ann Stanley
+[D]Vertigo NOS
+Still coughing up some thick globules phlegm - leading again to choking
+(R0043)
+Read Code
+07 Aug 1996 - Mrs Ann Stanley
+Fostering medical examination
+Still feels like thick mucous from chest - causing choking
+(6982.)
+Read Code
+23 Jul 1996 - Mrs Ann Stanley
+Letter encounter
+Pneumovax 11 Injection 25 mcg 0.5 ml 1 vial(s)
+(9N33.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 13 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Read Code
+18 Apr 1996 - Mrs Ann Stanley
+DNA hospital appointment
+BT taken
+(9N4H.)
+Read Code
+18 Dec 1995 - Mrs Ann Stanley
+Cervical smear: negative
+Generalised non-specific abdominal tenderness
+(4K22.)
+Read Code
+18 Dec 1995 - Mrs Ann Stanley
+ECG - general
+Chest OK. Pretty good at the moment
+(321..)
+Read Code
+05 Dec 1995 - Mrs Ann Stanley
+Headache
+Diarrhoea on and off for 3 weeks with abdo cramps.No blood and no recent travel
+(1B1G.)
+Read Code
+13 Aug 1995 - Mrs Ann Stanley
+DNA hospital appointment
+GTT taken
+(9N4H.)
+Read Code
+17 Apr 1995 - Mrs Ann Stanley
+Rheumatoid factor
+Pneumovax 11 Injection 25 mcg 0.5 ml 1 vial(s)
+(43F..)
+Read Code
+11 Apr 1995 - Mrs Ann Stanley
+Menopausal symptoms NOS (K5A2z)
+Read Code
+11 Apr 1995 - Mrs Ann Stanley
+Rheumatoid arthritis
+Continue to improve
+(N040.)
+Read Code
+29 Mar 1995 - Mrs Ann Stanley
+History / symptoms
+Ciprofloxacin Tablets 250 mg 1 bd 10 tablet(s)
+(1....)
+Read Code
+03 Mar 1994 - Mrs Ann Stanley
+Unspecified polyarthropathy or polyarthritis
+Awaiting MRI scan to look at anatomy
+(N065.)
+Read Code
+01 Mar 1994 - Mrs Ann Stanley
+Letter from consultant
+Prednisolone E/C Tablets 5 mg 6 od 42 tablet(s)
+(9N36.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 14 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Read Code
+27 Feb 1994 - Mrs Ann Stanley
+Mole of skin
+Slime and diarrhoea continue
+(B76..)
+Read Code
+01 Mar 1993 - Mrs Ann Stanley
+Referred to rheumatologist
+Pale - prob mildly anaemic. Pale and unwell
+(8H4B.)
+Read Code
+31 Jan 1993 - Mrs Ann Stanley
+O/E - a lump
+Awaiting MRI scan to look at anatomy
+(2I11.)
+Read Code
+31 Jan 1993 - Mrs Ann Stanley
+C/O: a pain
+Indigestion still very bothersome
+(1D13.)
+Read Code
+30 Jan 1990 - Mrs Ann Stanley
+X-ray report received
+Chest OK. Pretty good at the moment
+(9ND4.)
+Read Code
+16 Jan 1990 - Mrs Ann Stanley
+Cervical spondylosis (N110.)
+Read Code
+28 Apr 1988 - Mrs Ann Stanley
+[D]Musculoskeletal chest pain
+Please repeat ENT exam in view of blood
+(R065A)
+Read Code
+30 Jul 1985 - Mrs Ann Stanley
+Termination of pregnancy NEC (7E086)
+Read Code
+31 Dec 1981 - Mrs Ann Stanley
+Other evacuation of contents of uterus
+Going to pain clinic
+(7E08.)
+Read Code
+04 Jul 1976 - Mrs Ann Stanley
+Normal delivery
+To come in 1 week time
+(7F19.)
+##### SAR DATA EXTRACT ON 04-04-2014T11:28:25 PAGE 15 OF 15 #####
+BROWN, Anne (Ms) Born: 17 May 1945 (68) Gender: F NHS No: 705 221 0460
+Allergies
+None listed in Medical Record.
+Appendix:
+Attachments
+Attachment
+19 Mar 2014 - Mr Lung Health
+Attachment
+COPD Assessment - 19/03/2014Assessment Type: Initial AssessmentCarried out by:
+TestUser
+(EMISATTACHMENT)
+
+
+Attachment
+19 Mar 2014 - Mr Lung Health
+Attachment
+COPD Assessment - 19/03/2014Assessment Type: Initial AssessmentCarried out by:
+TestUser
+(EMISATTACHMENT)
+
+
